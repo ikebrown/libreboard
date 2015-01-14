@@ -10,7 +10,9 @@ meteor-platform
 random
 reactive-dict
 
+bengott:avatar
 copleykj:livestamp
+cottz:publish
 dburles:collection-helpers
 fortawesome:fontawesome
 iron:router
@@ -22,8 +24,6 @@ momentjs:moment
 mquandalle:jquery-textcomplete
 mquandalle:stylus
 ongoworks:speakingurl
-reywood:publish-composite
 seriousm:emoji-continued
 tap:i18n
 yasaricli:slugify
-bengott:avatar
